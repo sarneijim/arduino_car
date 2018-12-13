@@ -1,0 +1,22 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "gazpacho": "react-native run-android"
+  },
+  "dependencies": {
+    "expo": "^31.0.2",
+    "react": "16.5.0",
+    "react-native": "^0.57.7",
+    "react-native-ble-manager": "^6.5.4",
+    "react-native-cli": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "schedule": "^0.4.0"
+  },
+  "private": true
+}

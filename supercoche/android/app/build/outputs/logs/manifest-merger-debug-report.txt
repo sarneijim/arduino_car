@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5275deb7f13a31bd249325304b4a1261\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\19d3abf390522f5fe0793fe4c9538cda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4ae7824021bd1f6a2a39d53ed920c9ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\76fa8833b360bb6fc43b211c616262d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8b6e2f4e5e7609563208d1a38d433374\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fbd069a7af35dd63d0d8b17b56dcc315\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e9049d42b449c5e20fc14d488cddd2d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\96a65ed3001b47e65c9430dc06354735\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c77be5d1029c2c5f60dc0c9e4b92c53c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\c649c223158280e7a3a6e570907fd538\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3e900d1984321d25d19d24e14cf28000\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\76057e727420fb28f130c16c9bbb0ad2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7f6cc5c3c04fd2ef55534545175ea586\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\bcd2916a2111d17c892d7337fe3e9107\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a806745841b8fe7734e662092ee76cf0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bef6deda881146a489a689c108fca18e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\642b6711d63012e8e5b131f43f88b596\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e2123f6e56715d25300d00978302d23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\485ef3753dc6befa330040b5278bc590\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7f6cc5c3c04fd2ef55534545175ea586\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7f6cc5c3c04fd2ef55534545175ea586\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\bcd2916a2111d17c892d7337fe3e9107\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\bcd2916a2111d17c892d7337fe3e9107\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.supercoche.MainActivity
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\45e6aeb9eed340882adad051518ec424\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5275deb7f13a31bd249325304b4a1261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5275deb7f13a31bd249325304b4a1261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\19d3abf390522f5fe0793fe4c9538cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\19d3abf390522f5fe0793fe4c9538cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4ae7824021bd1f6a2a39d53ed920c9ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4ae7824021bd1f6a2a39d53ed920c9ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\76fa8833b360bb6fc43b211c616262d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\76fa8833b360bb6fc43b211c616262d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8b6e2f4e5e7609563208d1a38d433374\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8b6e2f4e5e7609563208d1a38d433374\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fbd069a7af35dd63d0d8b17b56dcc315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fbd069a7af35dd63d0d8b17b56dcc315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e9049d42b449c5e20fc14d488cddd2d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e9049d42b449c5e20fc14d488cddd2d2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\96a65ed3001b47e65c9430dc06354735\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\96a65ed3001b47e65c9430dc06354735\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c77be5d1029c2c5f60dc0c9e4b92c53c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\c77be5d1029c2c5f60dc0c9e4b92c53c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\c649c223158280e7a3a6e570907fd538\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\c649c223158280e7a3a6e570907fd538\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3e900d1984321d25d19d24e14cf28000\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3e900d1984321d25d19d24e14cf28000\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\76057e727420fb28f130c16c9bbb0ad2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\76057e727420fb28f130c16c9bbb0ad2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7f6cc5c3c04fd2ef55534545175ea586\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7f6cc5c3c04fd2ef55534545175ea586\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a806745841b8fe7734e662092ee76cf0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a806745841b8fe7734e662092ee76cf0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bef6deda881146a489a689c108fca18e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bef6deda881146a489a689c108fca18e\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\642b6711d63012e8e5b131f43f88b596\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\642b6711d63012e8e5b131f43f88b596\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e2123f6e56715d25300d00978302d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6e2123f6e56715d25300d00978302d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\485ef3753dc6befa330040b5278bc590\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sarneijim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\485ef3753dc6befa330040b5278bc590\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from [:react-native-ble-manager] C:\Users\sarneijim\Desktop\arduino\supercoche\node_modules\react-native-ble-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\sarneijim\Desktop\arduino\supercoche\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
